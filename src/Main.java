@@ -37,5 +37,14 @@ public class Main {
 //        java.awt.Color.getHSBColor();
         
         System.out.println("Hello world!");
+
+        int i=6;
+        int j=i--;
+        System.out.println(j);
+        System.out.println(i);
+
+        String s=null;
+        //if((s!=null)&(s.length()>0));
+        if((s==null)|(s.length()==0));
     }
 }
