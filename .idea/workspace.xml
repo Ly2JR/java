@@ -4,18 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ed75f51-0e2f-4592-a147-423c6503cd04" name="变更" comment="添加示例">
-      <change afterPath="$PROJECT_DIR$/src/TemperatureTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/isHuiWenTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nineNineTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primeNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/randomTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revIntTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/riliTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/triangularArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yuanTest.java" afterDir="false" />
+    <list default="true" id="0ed75f51-0e2f-4592-a147-423c6503cd04" name="变更" comment="新增章节4的示例">
+      <change afterPath="$PROJECT_DIR$/src/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/passValueTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/starTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/starTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +51,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.randomTest">
-    <configuration name="BMITest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BMITest" />
+  <component name="RunManager" selected="应用程序.MyLine">
+    <configuration name="MyLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyLine" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,6 +63,20 @@
       <option name="MAIN_CLASS_NAME" value="SwitchTest" />
       <module name="Java" />
       <option name="PROGRAM_PARAMETERS" value="1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dateTest" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="passValueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="passValueTest" />
+      <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,27 +95,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="riliTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="riliTest" />
-      <module name="Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="yuanTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yuanTest" />
-      <module name="Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.MyLine" />
+        <item itemvalue="应用程序.passValueTest" />
+        <item itemvalue="应用程序.dateTest" />
         <item itemvalue="应用程序.randomTest" />
         <item itemvalue="应用程序.revIntTest" />
-        <item itemvalue="应用程序.yuanTest" />
-        <item itemvalue="应用程序.riliTest" />
-        <item itemvalue="应用程序.BMITest" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678809655849</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="新增章节4的示例">
+      <created>1678881388042</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678881388042</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +175,7 @@
     <MESSAGE value="github 同步" />
     <MESSAGE value="代码格式文件" />
     <MESSAGE value="添加示例" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加示例" />
+    <MESSAGE value="新增章节4的示例" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增章节4的示例" />
   </component>
 </project>
