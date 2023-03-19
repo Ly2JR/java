@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ed75f51-0e2f-4592-a147-423c6503cd04" name="变更" comment="新增章节4的示例">
-      <change afterPath="$PROJECT_DIR$/src/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/passValueTest.java" afterDir="false" />
+    <list default="true" id="0ed75f51-0e2f-4592-a147-423c6503cd04" name="变更" comment="新增章节4的示例,有点混乱，之后重新文档梳理">
+      <change afterPath="$PROJECT_DIR$/src/ArrayTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringTester2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TableTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VectorTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/moveOddFrontTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,9 +54,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.MyLine">
-    <configuration name="MyLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyLine" />
+  <component name="RunManager" selected="应用程序.StudentTester">
+    <configuration name="StringTester2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringTester2" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentTester" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,29 +77,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dateTest" />
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tester" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="passValueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="passValueTest" />
+    <configuration name="VectorTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VectorTester" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="randomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="randomTest" />
-      <module name="Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="revIntTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="revIntTest" />
+    <configuration name="moveOddFrontTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="moveOddFrontTester" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.MyLine" />
-        <item itemvalue="应用程序.passValueTest" />
-        <item itemvalue="应用程序.dateTest" />
-        <item itemvalue="应用程序.randomTest" />
-        <item itemvalue="应用程序.revIntTest" />
+        <item itemvalue="应用程序.StudentTester" />
+        <item itemvalue="应用程序.Tester" />
+        <item itemvalue="应用程序.moveOddFrontTester" />
+        <item itemvalue="应用程序.VectorTester" />
+        <item itemvalue="应用程序.StringTester2" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678881388042</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="新增章节4的示例,有点混乱，之后重新文档梳理">
+      <created>1679132955973</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679132955973</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,6 +186,8 @@
     <MESSAGE value="代码格式文件" />
     <MESSAGE value="添加示例" />
     <MESSAGE value="新增章节4的示例" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增章节4的示例" />
+    <MESSAGE value="新增章节5的示例,有点混乱，之后重新文档梳理" />
+    <MESSAGE value="新增章节4的示例,有点混乱，之后重新文档梳理" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增章节4的示例,有点混乱，之后重新文档梳理" />
   </component>
 </project>
