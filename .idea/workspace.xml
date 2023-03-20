@@ -4,16 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ed75f51-0e2f-4592-a147-423c6503cd04" name="变更" comment="新增章节4的示例,有点混乱，之后重新文档梳理">
-      <change afterPath="$PROJECT_DIR$/src/ArrayTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringTester2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TableTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VectorTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/moveOddFrontTester.java" afterDir="false" />
+    <list default="true" id="0ed75f51-0e2f-4592-a147-423c6503cd04" name="变更" comment="新增章节5的示例,有点混乱，之后重新文档梳理">
+      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PersonTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section6/Automobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section6/MainTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section6/MyGraphic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section6/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section6/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section7/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section7/CharInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section7/FileInputStreamTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section7/FileOutputStreamTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section7/FileToUnicodeTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section7/ObjectInputStreamTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section7/ObjectOutputStreamTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section7/PrintWriterTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section7/StudentSerializable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section7/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section7/UserFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section8/FrameWithPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section8/JButtonExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section8/JFrameDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section8/JFrameDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section8/TwoStatesButtonDemo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,17 +70,55 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.StudentTester">
-    <configuration name="StringTester2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringTester2" />
+  <component name="RunManager" selected="应用程序.TwoStatesButtonDemo2">
+    <configuration name="FrameWithPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section8.FrameWithPanel" />
       <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Section8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StudentTester" />
+    <configuration name="JButtonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section8.JButtonExample" />
       <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Section8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JFrameDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section8.JFrameDemo" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Section8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JFrameDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section8.JFrameDemo2" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Section8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -77,34 +131,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tester" />
+    <configuration name="TwoStatesButtonDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section8.TwoStatesButtonDemo2" />
       <module name="Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VectorTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VectorTester" />
-      <module name="Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="moveOddFrontTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="moveOddFrontTester" />
-      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Section8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.StudentTester" />
-        <item itemvalue="应用程序.Tester" />
-        <item itemvalue="应用程序.moveOddFrontTester" />
-        <item itemvalue="应用程序.VectorTester" />
-        <item itemvalue="应用程序.StringTester2" />
+        <item itemvalue="应用程序.TwoStatesButtonDemo2" />
+        <item itemvalue="应用程序.JButtonExample" />
+        <item itemvalue="应用程序.FrameWithPanel" />
+        <item itemvalue="应用程序.JFrameDemo2" />
+        <item itemvalue="应用程序.JFrameDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679132955973</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="新增章节5的示例,有点混乱，之后重新文档梳理">
+      <created>1679221106321</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679221106321</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,8 +239,8 @@
     <MESSAGE value="代码格式文件" />
     <MESSAGE value="添加示例" />
     <MESSAGE value="新增章节4的示例" />
-    <MESSAGE value="新增章节5的示例,有点混乱，之后重新文档梳理" />
     <MESSAGE value="新增章节4的示例,有点混乱，之后重新文档梳理" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增章节4的示例,有点混乱，之后重新文档梳理" />
+    <MESSAGE value="新增章节5的示例,有点混乱，之后重新文档梳理" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增章节5的示例,有点混乱，之后重新文档梳理" />
   </component>
 </project>
